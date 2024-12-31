@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d2hg7ptgtj5ew"
-path="res://.godot/imported/icon_constraint.png-a8c93ee56b69afccfc770e0ddb9b724f.ctex"
+uid="uid://byeef8ak7gqvh"
+path="res://.godot/imported/white.png-fdd32119f271b8bdd581518f7d787280.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/Souperior 2D Skeleton Modifications/Animatinators/Icons/icon_constraint.png"
-dest_files=["res://.godot/imported/icon_constraint.png-a8c93ee56b69afccfc770e0ddb9b724f.ctex"]
+source_file="res://image/white.png"
+dest_files=["res://.godot/imported/white.png-fdd32119f271b8bdd581518f7d787280.ctex"]
 
 [params]
 

@@ -14,7 +14,8 @@ config/name="UiWallpaper"
 run/main_scene="res://scene/stage.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 run/max_fps=45
-boot_splash/show_image=false
+boot_splash/bg_color=Color(0.6179, 0.74, 0.4958, 1)
+boot_splash/image="res://image/trickcal_logo.png"
 config/icon="res://image/Ui_Icon144.png"
 config/windows_native_icon="res://icons/Ui_Icon.ico"
 
